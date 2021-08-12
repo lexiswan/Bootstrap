@@ -1,0 +1,52 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body {
+    background-color: rgb(219, 219, 219);
+}
+.navbar-nav {
+    margin: 0.5em 1em;
+    justify-content: end;
+    align-items: flex-end;
+}
+
+.collapse {
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+.main-page {
+    padding-bottom: 2em;
+}
+.page-footer {
+    background-color: rgb(49, 44, 44);
+    color: white;
+    
+    padding-top: 2em;
+}
+.footer-copyright {
+    background-color: black;
+    color: grey;
+    
+}
+.btn {
+    position: absolute;
+   top: 10em;
+   left: 22em;
+}
+p { 
+    color: grey;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+}
+h3, h4, h5 {
+    padding-top: 1.5em;
+    
+}
+.container-fluid {
+    padding-left: 2em;
+}
+h3 {
+    padding-left: 1em;
+}
